@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>MaskObject</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>MaskObjects</value>
+    </caseValues>
+    <fields>
+        <label><!-- Define No of Record for one batch --></label>
+        <name>Define_Record_No_for_one_batch__c</name>
+    </fields>
+    <fields>
+        <label><!-- Error Count Records --></label>
+        <name>Error_Count_Records__c</name>
+    </fields>
+    <fields>
+        <label><!-- Error Records Count --></label>
+        <name>Error_Records_Count__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Active? --></label>
+        <name>Is_Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- Record Name --></label>
+        <name>Record_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Success Record Count --></label>
+        <name>Success_Record_Count__c</name>
+    </fields>
+    <fields>
+        <label><!-- Success Records Count --></label>
+        <name>Success_Records_Count__c</name>
+    </fields>
+    <layouts>
+        <layout>MaskObject Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Data Mask --></label>
+        <name>Data_Mask</name>
+    </quickActions>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

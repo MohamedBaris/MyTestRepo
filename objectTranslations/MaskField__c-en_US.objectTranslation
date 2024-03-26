@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>MaskField</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>MaskFields</value>
+    </caseValues>
+    <fields>
+        <label><!-- MaskObject --></label>
+        <name>MaskObject__c</name>
+        <relationshipLabel><!-- MaskFields --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Mask values --></label>
+        <name>Mask_values__c</name>
+    </fields>
+    <fields>
+        <label><!-- is concatenate? --></label>
+        <name>is_concatenate__c</name>
+    </fields>
+    <layouts>
+        <layout>MaskField Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

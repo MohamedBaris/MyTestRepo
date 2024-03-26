@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>iambaris22@gmail.com</contactEmail>
+    <label>jenkinisApp</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDljCCAn4CCQCBR8vE8DzhgTANBgkqhkiG9w0BAQsFADCBjDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkdBMRMwEQYDVQQHEwpBbHBoYXJldHRhMRMwEQYDVQQKEwpTYWxlc2ZvcmNlMQwwCgYDVQQLEwNEZXYxEzARBgNVBAMTClNhbGVzZm9yY2UxIzAhBgkqhkiG9w0BCQEWFGlhbWJhcmlzMjJAZ21haWwuY29tMB4XDTI0MDMxMTA5MTI0OFoXDTI1MDMxMTA5MTI0OFowgYwxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJHQTETMBEGA1UEBxMKQWxwaGFyZXR0YTETMBEGA1UEChMKU2FsZXNmb3JjZTEMMAoGA1UECxMDRGV2MRMwEQYDVQQDEwpTYWxlc2ZvcmNlMSMwIQYJKoZIhvcNAQkBFhRpYW1iYXJpczIyQGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALQVFyKWiG0HfsMTmtRBWuVo0mKMzXg2c30NUgExhl91nPzpettJtt0SaRmQ3T1dR1uHDR8UlD8s+kRxwWEM8w66t4ooJlPDPhVa/YAK536puFTbGtoLMh1aQKnTX4L55/U0QVd0CTgD7kejFFxXwcrMc2Zczw9d+RPH4HoQFrQZFUIg5dH2lZBzI3i0fs2ANgaKnx63aSpPFoTVrljvxhHlsfT0NgX8elbVrTU1pLwuD7ECxkfHJg5y9pC+YBROisySVe/lcx0lbBKUMxSd5KpnHvHmkJxKGBkJ/La6i7RH2hymwjXmhNW81VCmfmLsacky2e1MlLM7uWzi1YMmEU8CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAqWpfOrOSlvZ326mkzXzPjN+AGnX22aZAGjY4YvYylqUnHw8DTBTSj1Wy1tYfdinsCQYeNWosMF40I7NAAvLQLy1Jpm1hY3HcBotFaA1RyRcEbo8Yl0c0XAUFkWRMy4qyrOwBGBmsyCf3MsB4eW6T8Ex/slNeIvM98PEtnKJiHed+jhy2zfI7G3ai2cucFtIrShvlmXcj2Ucd1uJX/31UIUvZHg+htgTe6xKR4sevYFGahRCwXwbqyy++aJ/s+8bViDMlBQRsDb903cPK11jB/Ti0+kBmj+F6l8Khki1SzOEYhHjF1g1ZSf/WWjCxOuAhW66SsLah1g9TV2XNHTYtfw==</certificate>
+        <consumerKey>3MVG9fe4g9fhX0E7IpbUL2z_iM4mt4fJaswgWKCfDNdQivCEAn_uqxN56fQz9SKbPxVZkUaXnt.7P1f4i5RFn</consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
